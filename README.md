@@ -4,7 +4,8 @@ A React.js bookshelf app that allows you to select and categorize books depends 
 
 
 ## Clone :
-
+* install all project dependencies with `npm install`
+* cd  `udacity-react-js-nano-degree-My-Reads`
 ## Installation :
 
 * install all project dependencies with `npm install`
